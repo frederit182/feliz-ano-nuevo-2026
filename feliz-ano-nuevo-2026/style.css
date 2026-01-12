@@ -36,7 +36,7 @@ canvas {
 }
 
 h1 {
-  font-size: 2.6rem;
+  font-size: 3.5rem;
   margin-bottom: 0.3rem;
   font-weight: 800;
   animation: glow 3s ease-in-out infinite;
@@ -48,7 +48,7 @@ h1 span {
 
 .year {
   margin-top: 0.8rem;
-  font-size: 3.2rem;
+  font-size: 4rem;
   font-weight: 800;
   letter-spacing: 6px;
   color: #800080;
@@ -57,7 +57,7 @@ h1 span {
 
 p {
   margin-top: 1rem;
-  font-size: 1.05rem;
+  font-size: 1.5rem;
   line-height: 1.7;
   opacity: 0.95;
 }
@@ -69,7 +69,7 @@ p {
   border-radius: 30px;
   background: linear-gradient(135deg, #ffd166, #ef476f);
   color: #000;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
